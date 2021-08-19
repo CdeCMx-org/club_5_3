@@ -46,11 +46,18 @@ polarizado (POM), lo que permite la detección de H2.
 ## Resultados
 
 Existen 4 subtipos de cáncer de mamá que ayudan a tomar decisiones sobre que tratamientos son los más adecuados:
-Grupo 1 - Luminal A: Tumores que son positivos para el receptor de estrógeno (ER) y negativos para el receptor del factor de crecimiento epidérmico 2 (HER2). Pueden beneficiarse de tratamientos hormonales y de quimioterapia.
-Grupo 2 - Luminal B: Tumores que son positivos para el receptor de estrógeno (ER) y positivos para el receptor del factor de crecimiento epidérmico 2 (HER2). Pueden beneficiarse de tratamientos hormonales, de quimioterapia y de tratamiento dirigido a HER2.
-Grupo 3 - HER2+: Tumores que son negativos para el receptor de estrógeno (ER) y positivos para el receptor del factor de crecimiento epidérmico 2 (HER2). Pueden beneficiarse de quimioterapia y de tratamiento dirigido a HER2.
-Grupo 4 - Basal: Tumores que son negativos para el receptor de estrógeno (ER) y negativos para el receptor del factor de crecimiento epidérmico 2 (HER2). Pueden beneficiarse de quimioterapia.
-Para saber que tipo de cáncer de mama se está presentando, en el sensor de cristal líquido se usarán los aptámeros H2 y ERaptD4, que están dirigidos a las proteínas HER2 y ER, respectivamente, para decidir el tratamiento del paciente.
+Grupo 1 - Luminal A: Tumores que son positivos para el receptor de estrógeno (ER) y negativos para el receptor del factor de crecimiento
+epidérmico 2 (HER2). Pueden beneficiarse de tratamientos hormonales y de quimioterapia.
+Grupo 2 - Luminal B: Tumores que son positivos para el receptor de estrógeno (ER) y positivos para el receptor del factor de crecimiento
+epidérmico 2 (HER2). Pueden beneficiarse de tratamientos hormonales, de quimioterapia y de tratamiento dirigido a HER2.
+Grupo 3 - HER2+: Tumores que son negativos para el receptor de estrógeno (ER) y positivos para el receptor del factor de crecimiento
+epidérmico 2 (HER2). Pueden beneficiarse de quimioterapia y de tratamiento dirigido a HER2.
+Grupo 4 - Basal: Tumores que son negativos para el receptor de estrógeno (ER) y negativos para el receptor del factor de crecimiento
+epidérmico 2 (HER2). Pueden beneficiarse de quimioterapia.
+Para saber que tipo de cáncer de mama se está presentando, en el sensor de cristal líquido se usarán los aptámeros H2 y ERaptD4, que
+están dirigidos a las proteínas HER2 y ER, respectivamente, para decidir el tratamiento del paciente.
+
+```
 
 er=input("ER:")
 her=input("HER2:")
@@ -62,5 +69,21 @@ elif er=="-" and her=="+":
  print("Cáncer tipo HER2+. Se puede aplicar tratamientos dirigidos a HER2.")
 elif er=="-" and her=="-":
  print("Cáncer tipo basal. Se puede aplicar quimioterapia.")
+ 
+```
+ 
+Por otra parte se han estudiado a la nucleolina y HER2, que forman un complejo, como biomarcadores para la formación de tumores y la
+progresión del cáncer de mamá, por lo que se propone usar el aptámero AS1411, dirigido a la nucleolina, en conjunto con el aptámero H2,
+para saber si un tratamiento de cancer de mamá está teniendo efecto en el paciente. Es decir, si se observan una gran cantidad de
+cristales líquidos en el microscopio, el tratamiento no está teniendo efecto.
+
+Por último también se propone usar el sensor para la detección de una predisposición al cáncer de mama. Se ha estudiado a la proteína
+MUC1 como un biomarcador de la metástasis del cáncer de mamá, es decir, un tumor maligno, por lo que se propone usar el aptámero MUC1.
+Si hay poca detección quiere decir que el cáncer está en etapas tempranas mientras que si hay mucha detección quiere decir que el cáncer
+ya está avanzado.
+
+Como control positivo se propone usar el aptámero para el gen BRCA1, ya que está presente en todas las células y por lo tanto siempre
+será positivo.
+
 
 ## Conclusión
