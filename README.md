@@ -1,6 +1,6 @@
-#Oncosensor para la detección del cáncer de mama
+# Oncosensor para la detección del cáncer de mama
 
-##Introducción
+## Introducción
 
 Hablemos del Cáncer de mama, pero no solo de él sino de la gran problemática que representa entre las mujeres mexicanas y en todo el mundo
 tan solo el decir que es el tumor más frecuente entre las mujeres en México nos da una idea a todo lo que esto representa, la primer causa
