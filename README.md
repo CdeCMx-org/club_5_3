@@ -45,16 +45,28 @@ polarizado (POM), lo que permite la detección del marcador.
 
 ## Resultados
 
+Existen diferentes tipos de marcadores tumorales que se producen en las células en respuesta al cáncer de mama. Las proteínas ER (receptor
+de estrógeno) y HER2 (receptor de factor de crecimiento epidérmico 2) van a expresarse dependiendo de que tipo de cáncer se presente, la proteína
+NCL (nucleolina) es un marcador de la formación de tumorales, ppor lo que puede indicar el efecto que un tratamiento está teniendo en un paciente
+y por último la proteína MUC1, marcador de la metástasis del cáncer o tumor maligno, que su expresión esta relacionada con la etapa del cáncer
+de mama.
 
 <img src="Marcadores tumorales.png" width=450>
 
-<img src="Aptámeros.png" width=600>
+Por lo tanto, se propone utiilizar los aptámeros para hacer un diagnóstico del tipo de cáncer, del efecto de un tratamiento y de la
+predisposición que tiene una persona al cáncer de mama para su tratamiento temprano.
+
+<img src="Aptámeros.png" width=600>
 
 Existen 4 tipos de cáncer de mamá  en donde se pueden expresar o no los marcadores del receptor de estógeno (ER) y del receptor
-de factor de crecimiento epidérmico 2(HER2)y algunos tratamientos seran efectivos o no, por lo tanto, es importante detectar el
+de factor de crecimiento epidérmico 2(HER2) y algunos tratamientos seran efectivos o no, por lo tanto, es importante detectar el
 tipo de cáncer que esta presentando el paciente.
 
 <img src="Tipos de cáncer.png" width=600>
+
+Por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los marcadores ER y HER2 escriba "+" si la prueba es
+positiva y "-" si la prueba es negativa:
+
 
 ```
 
@@ -70,16 +82,6 @@ elif er=="-" and her=="-":
  print("Cáncer tipo basal. Se puede aplicar quimioterapia.")
  
 ```
- 
-Por otra parte se han estudiado a la nucleolina y HER2, que forman un complejo, como biomarcadores para la formación de tumores y la
-progresión del cáncer de mamá, por lo que se propone usar el aptámero AS1411, dirigido a la nucleolina, en conjunto con el aptámero H2,
-para saber si un tratamiento de cancer de mamá está teniendo efecto en el paciente. Es decir, si se observan una gran cantidad de
-cristales líquidos en el microscopio, el tratamiento no está teniendo efecto.
-
-Por último también se propone usar el sensor para la detección de una predisposición al cáncer de mama. Se ha estudiado a la proteína
-MUC1 como un biomarcador de la metástasis del cáncer de mamá, es decir, un tumor maligno, por lo que se propone usar el aptámero MUC1.
-Si hay poca detección quiere decir que el cáncer está en etapas tempranas mientras que si hay mucha detección quiere decir que el cáncer
-ya está avanzado.
 
 Como control positivo se propone usar el aptámero para el gen BRCA1, ya que está presente en todas las células y por lo tanto siempre
 será positivo.
