@@ -92,7 +92,7 @@ será positivo.
 Hemos propuesto el desarollo de un sensor de marcadores tumorales a base del cristal líquido 5CB y de aptámeros para detectar:
 * La predisposición que tiene un paciente al cáncer de mama.
 * El tipo de cancer de mamá
-* El feceto del tratamiento sobre la progresión del cáncer de mama.
+* El efecto del tratamiento sobre la progresión del cáncer de mama.
 
 
 ## Referencias
