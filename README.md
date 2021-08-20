@@ -68,19 +68,17 @@ Por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los ma
 positiva y "-" si la prueba es negativa:
 
 
-```
-
+```python
 er=input("ER:")
 her=input("HER2:")
 if er=="+" and her=="-":
- print("Cáncer tipo Luminal A. Se puede aplicar quimioterapia y tratamientos hormonales.")
+  print("Cáncer tipo Luminal A. Se puede aplicar quimioterapia y tratamientos hormonales.")
 elif er=="+" and her=="+":
- print("Cáncer tipo Luminal B. Se puede aplicar quimioterapia, tratamientos hormonales y dirigidos a HER2.")
+  print("Cáncer tipo Luminal B. Se puede aplicar quimioterapia, tratamientos hormonales y dirigidos a HER2.")
 elif er=="-" and her=="+":
- print("Cáncer tipo HER2+. Se puede aplicar tratamientos dirigidos a HER2.")
+  print("Cáncer tipo HER2+. Se puede aplicar tratamientos dirigidos a HER2.")
 elif er=="-" and her=="-":
- print("Cáncer tipo basal. Se puede aplicar quimioterapia.")
- 
+  print("Cáncer tipo basal. Se puede aplicar quimioterapia.")
 ```
 
 Como control positivo se propone usar el aptámero para el gen BRCA1, ya que está presente en todas las células y por lo tanto siempre
