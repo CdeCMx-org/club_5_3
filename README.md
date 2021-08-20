@@ -31,16 +31,16 @@ luz de diferente color según sea la temperatura se utilizan en termómetros o d
 
 ## Metodología
 
-Sensor de detección de detección de niveles altos de HER2 mediante aptámero ( anti-HER2) basado en Cristal líquido nemático (4-ciano-4'-
+Sensor de detección de detección mediante un aptámero dirigado a un marcado específico basado en un cristal líquido nemático (4-ciano-4'-
 pentilbifenilo [5CB]). Consiste en Monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP) 
-inmovilizadas en portaobjetos de vidrio sostienen las largas cadenas de alquilo que mantienen las moléculas de cristal líquido (LC) en
-una orientación homeotrópica. El glutaraldehído (GA) se utiliza como reticulante para inmovilizar el aptámero ( anti-HER2) sobre la
+inmovilizadas en un portaobjeto de vidrio que  que mantienen las moléculas de cristal líquido (LC) en
+una orientación homeotrópica. Se utiliza el glutaraldehído  para inmovilizar el aptámero sobre la
 superficie de los  portaobjetos de vidrio.
 
-La unión específica del aptámero H2 (anti-HER2) y HER2 interrumpe la orientación homeotrópica del cristal líquido, induciendo así un
+La unión específica del aptámero y el marcador específico interrumpe la orientación homeotrópica del cristal líquido, induciendo así un
 cambio en la orientación de homeotrópico a una alineación aleatoria. Este cambio de orientación se puede convertir y visualizar
 simplemente como una transición de una imagen cristal liquido óptica oscura a una imagen más brillante bajo un microscopio óptico
-polarizado (POM), lo que permite la detección de H2.
+polarizado (POM), lo que permite la detección del marcador.
 
 
 ## Resultados
@@ -80,4 +80,5 @@ será positivo.
 
 ## Conclusión
 
+Hemos propuesto el desarollo de un sensor de marcadores tumorales a base de cristal líquida y aptámeros
 ## Referencias
