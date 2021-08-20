@@ -45,17 +45,9 @@ polarizado (POM), lo que permite la detección de H2.
 
 ## Resultados
 
-Existen 4 subtipos de cáncer de mamá que ayudan a tomar decisiones sobre que tratamientos son los más adecuados:
-Grupo 1 - Luminal A: Tumores que son positivos para el receptor de estrógeno (ER) y negativos para el receptor del factor de crecimiento
-epidérmico 2 (HER2). Pueden beneficiarse de tratamientos hormonales y de quimioterapia.
-Grupo 2 - Luminal B: Tumores que son positivos para el receptor de estrógeno (ER) y positivos para el receptor del factor de crecimiento
-epidérmico 2 (HER2). Pueden beneficiarse de tratamientos hormonales, de quimioterapia y de tratamiento dirigido a HER2.
-Grupo 3 - HER2+: Tumores que son negativos para el receptor de estrógeno (ER) y positivos para el receptor del factor de crecimiento
-epidérmico 2 (HER2). Pueden beneficiarse de quimioterapia y de tratamiento dirigido a HER2.
-Grupo 4 - Basal: Tumores que son negativos para el receptor de estrógeno (ER) y negativos para el receptor del factor de crecimiento
-epidérmico 2 (HER2). Pueden beneficiarse de quimioterapia.
-Para saber que tipo de cáncer de mama se está presentando, en el sensor de cristal líquido se usarán los aptámeros H2 y ERaptD4, que
-están dirigidos a las proteínas HER2 y ER, respectivamente, para decidir el tratamiento del paciente.
+Existen 4 tipos de cáncer de mamá  en donde se pueden expresar o no los marcadores del receptor de estógeno (ER) y del receptor
+de factor de crecimiento epidérmico 2(HER2)y algunos tratamientos seran efectivos o no, por lo tanto, es importante detectar el
+tipo de cáncer que esta presentando el paciente
 
 ```
 
@@ -87,3 +79,5 @@ será positivo.
 
 
 ## Conclusión
+
+## Referencias
