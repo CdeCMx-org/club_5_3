@@ -45,6 +45,11 @@ polarizado (POM), lo que permite la detección del marcador.
 
 ## Resultados
 
+
+<img src="Marcadores tumorales.png" width=450>
+
+<img src="Aptámeros.png" width=600>
+
 Existen 4 tipos de cáncer de mamá  en donde se pueden expresar o no los marcadores del receptor de estógeno (ER) y del receptor
 de factor de crecimiento epidérmico 2(HER2)y algunos tratamientos seran efectivos o no, por lo tanto, es importante detectar el
 tipo de cáncer que esta presentando el paciente.
