@@ -49,7 +49,7 @@ Existen 4 tipos de cáncer de mamá  en donde se pueden expresar o no los marcad
 de factor de crecimiento epidérmico 2(HER2)y algunos tratamientos seran efectivos o no, por lo tanto, es importante detectar el
 tipo de cáncer que esta presentando el paciente.
 
-<img src="Tipos de cáncer.png" width=200>
+<img src="Tipos de cáncer.png" width=600>
 
 ```
 
@@ -82,5 +82,10 @@ será positivo.
 
 ## Conclusión
 
-Hemos propuesto el desarollo de un sensor de marcadores tumorales a base de cristal líquida y aptámeros
+Hemos propuesto el desarollo de un sensor de marcadores tumorales a base del cristal líquido 5CB y de aptámeros para detectar:
+* La predisposición que tiene un paciente al cáncer de mama.
+* El tipo de cancer de mamá
+* El feceto del tratamiento sobre la progresión del cáncer de mama.
+
+
 ## Referencias
