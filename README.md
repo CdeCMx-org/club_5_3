@@ -13,6 +13,8 @@ concepto  tumor maligno al grupo de células que crecen de manera desordenada e 
 que lo rodean, así como órganos distantes (metástasis) dando por hecho que el cáncer de mama no solo acepta a mujeres sino
 también a hombres.
 
+<img src="Mamografía.jpeg" width=550>
+
 Las mujeres diagnosticadas con cáncer de mama en etapas iniciales, si reciben tratamiento, tienen un buen pronóstico, con tasas
 de supervivencia del 80% al 90 %. Lamentablemente, en México, la mayoría de las mujeres son diagnosticadas en etapas tardías.
 Si se tuviera un método eficaz y de menor costo para la detección temprana y del tipo de cáncer de mama el número de casos y
@@ -36,7 +38,9 @@ pueden tener sus centros de gravedad posicionados al azar (desorden posicional) 
 determinada (orden orientacional) y es esto lo que crea la estructura ordenada de un cristal líquido.
 
 Los áptameros con secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas con alta
-afinidad y presentan varias ventajas sobre los anticuerpos como es su bajo costo y su estabilidad.
+afinidad y presentan varias ventajas sobre los anticuerpos su bajo costo de producción y su estabilidad.
+
+<img src="Aptamer.jpeg" width=550>
 
 ## Metodología
 
@@ -91,8 +95,8 @@ tipo de cáncer que esta presentando el paciente.
 
 <img src="Tipos de cáncer.png" width=600>
 
-Por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los marcadores ER y HER2 escriba "+" si la prueba es
-positiva y "-" si la prueba es negativa:
+En el siguiente link de [Google Colab](https://colab.research.google.com/drive/1vZsmu1tS6uh8dV-xZO0OMinHxB2j-_jk?usp=sharing) ,por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los marcadores ER y HER2 escriba "+" si la prueba es positiva y "-" si la prueba es negativa, para saber el tipo de cáncer que es y que tratamiento
+será efectivo
 
 
 ```python
