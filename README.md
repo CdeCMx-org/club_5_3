@@ -22,7 +22,6 @@ Sin embargo el uso de cristales líquidos y aptámeros podría darle solución a
 e implementación no tiene un gran costo a comparación de estudios genéticos y en combinación con el uso de aptámeros los vuelve
 muy eficientes para la detección específica de marcadores tumorales.
 
-
 ### Crsitales líquidos
 
 Los cristales líquidos son materiales que poseen propiedades intermedias: pueden fluir como un líquido pero también poseen
@@ -37,16 +36,18 @@ determinada (orden orientacional) y es esto lo que crea la estructura ordenada d
 Los áptameros con secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas con alta
 afinidad y presentan varias ventajas sobre los anticuerpos como es su bajo costo y su estabilidad.
 
-
-
 ## Metodología
 
 Se propone implementar el sensor desarrollado por Nguyen y Jang (2021), pero adaptándolo con aptámeros específicos para los
 marcadores tumorales de cáncer de mama, ya que este sensor detecta hasta 10pM de la muestra, siendo el más bajo encontrado
 en la literatura, lo que quiere decir que no se necesita una gran cantidad de muestra para llevar a cabo una prueba.
 
+<img src="Comparación.png" width=550>
+
 El cristal líquido que se utiliza es el 4-ciano-4’pentilbifenil o 5CB y es de tipo nematico. Pasa de estado cristalino a
 estado nematico a una temperatura de 24ºC y de estado nematico a estado isotrópico a 35ºC.
+
+<img src="Transición.png" width=550>
 
 El sensor consiste en Monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP)
 inmovilizadas en portaobjetos de vidrio que mantienen las moléculas del 5CB en una orientación homeotrópica. Se utiliza al
@@ -56,11 +57,13 @@ La unión específica del aptámero y el marcador tumoral interrumpe la orientac
 cambio una alineación aleatoria que se puede convertir y visualizar simplemente como una transición de una imagen óptica
 oscura a una imagen más brillante bajo un microscopio óptico polarizado (POM) que permite la detección del marcador tumoral
 
+<img src="Biosensor.png" width=550>
+
+<img src="Microscopìa.png" width=550>
+
 El tipo de muestra que se utilizará para el sensor será una biopsia líquida, o sangre, ya que estas muestras se realizan de
 manera no invasiva en el paciente y se puede detectar el cáncer de mama en etapas tempranas además de monitorear los efectos
 de un tratamiento sobre la progresión de este cáncer (Roy et al., 2021).
-
-
 
 ## Resultados
 
@@ -77,7 +80,6 @@ relacionada con la etapa del cáncer de mama (Horm & Schroeder, 2013; Wolfson et
 Por lo tanto, se propone utilizar los aptámeros H2, ERaptD4, AS1411 y MUC1 para hacer un diagnóstico del tipo de cáncer, del
 efectividad de un tratamiento y de la predisposición que tiene una persona al cáncer de mama para su tratamiento temprano
 (Liu et al., 2017).
-
 
 <img src="Aptámeros.png" width=600>
 
