@@ -47,7 +47,7 @@ en la literatura, lo que quiere decir que no se necesita una gran cantidad de mu
 El cristal líquido que se utiliza es el 4-ciano-4’pentilbifenil o 5CB y es de tipo nematico. Pasa de estado cristalino a
 estado nematico a una temperatura de 24ºC y de estado nematico a estado isotrópico a 35ºC.
 
-<img src="Transición.png" width=550>
+<img src="Transición.jpeg" width=350>
 
 El sensor consiste en Monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP)
 inmovilizadas en portaobjetos de vidrio que mantienen las moléculas del 5CB en una orientación homeotrópica. Se utiliza al
