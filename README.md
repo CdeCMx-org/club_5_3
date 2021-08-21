@@ -28,7 +28,9 @@ Los cristales líquidos son materiales que poseen propiedades intermedias: puede
 orden orientacional de corto alcance como los sólidos cristalinos y combinan la fluidez con la anisotropía óptica y aparece
 el efecto de la birrefringencia. Estas propiedades pueden utilizarse para resolver diferentes problemáticas como lo es la
 detección de una molécula en particular.
-
+ 
+<img src="Cristal líquido.jpeg" width=400>
+ 
 Las sustancias que forman cristales líquidos están formadas por moléculas con una forma alargada o de disco de esta manera
 pueden tener sus centros de gravedad posicionados al azar (desorden posicional) pero mantener su orientación en una dirección
 determinada (orden orientacional) y es esto lo que crea la estructura ordenada de un cristal líquido.
