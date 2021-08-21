@@ -1,5 +1,7 @@
 # Oncosensor para la detección del cáncer de mama
 
+<div class=text-justify>
+  
 ## Introducción
 
 ### Cáncer de mama
@@ -133,4 +135,6 @@ Cancer. Int. J. Mol. Sci., 22(11). 10.3390/ijms22115601
 
 Wolfson, E., Solomon, S., Schmukler, E., Goldshmit, Y., & Pinkas-Kramarski, R. (2018). Nucleolin and ErbB2 inhibition reduces
 tumorigenicity of ErbB2-positive breast cancer. Cell Death & Disease, 9(2). 10.1038/s41419-017-0067-7
+  
+</div>
 
