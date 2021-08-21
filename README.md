@@ -113,6 +113,10 @@ Sin embargo, algunas consideraciones a tomar en cuenta es que el cristal líquid
 24ºC a 35ºC, por lo que el lugar donde se tome la muestra debe, preferiblemente, estar a temperatura ambiente, entre 27ºC-30ºC, para
 que no se tengan falsos positivos en las pruebas diagnóstico.
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fRf95Tv7YXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Referencias
 
 Horm, T. M., & Schroeder, J. A. (2013). MUC1 and metastatic cancer. Cell Adhesion & Migration, 7(2), 187–198. 10.4161/cam.23131
