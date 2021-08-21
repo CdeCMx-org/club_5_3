@@ -5,24 +5,25 @@
 ### Cáncer de mama
 
 El cáncer de mama es el tipo de cáncer más común y la segunda causa de muerte por cáncer entre las mujeres de América. Cada año
-se presentan más de 462,000 casos nuevos y casi 100,000 muertes por cáncer de mama. En México es el tumor más frecuente entre
-las mujeres por lo que es la primer causa de muerte por cáncer, cada dos horas una mujer muere por esta causa en México
+se presentan más de 462,000 casos nuevos y casi 100,000 muertes por cáncer de mama. En México, es el tumor más frecuente entre
+las mujeres por lo que es la primer causa de muerte por cáncer. Cada dos horas una mujer muere por esta causa en México
 
-¿Qué es el cáncer de mama? entendemos como cáncer de mama al tumor maligno que se origina en las células de la mama, dando por
-concepto  tumor maligno al grupo de células que crecen de manera desordenada e independiente, que tiende a invadir los tejidos
-que lo rodean, así como órganos distantes (metástasis) dando por hecho que el cáncer de mama no solo acepta a mujeres sino
-también a hombres.
+### ¿Qué es el cáncer de mama?
+
+Entendemos como cáncer de mama al tumor maligno que se origina en las células de la mama, dando por concepto de tumor maligno al
+grupo de células que crecen de manera desordenada e independiente, que tiende a invadir los tejidos que lo rodean, así como órganos
+distantes (metástasis) dando por hecho que el cáncer de mama no solo acepta a mujeres sino también a hombres.
 
 <img src="Mamografía.jpeg" width=550>
 
 Las mujeres diagnosticadas con cáncer de mama en etapas iniciales, si reciben tratamiento, tienen un buen pronóstico, con tasas
-de supervivencia del 80% al 90 %. Lamentablemente, en México, la mayoría de las mujeres son diagnosticadas en etapas tardías.
+de supervivencia del 80% al 90 %. Lamentablemente en México, la mayoría de las mujeres son diagnosticadas en etapas tardías.
 Si se tuviera un método eficaz y de menor costo para la detección temprana y del tipo de cáncer de mama el número de casos y
 muertes se podría reducir en hasta un 70%, inclusive en zonas remotas y marginadas del país.
 
-Sin embargo el uso de cristales líquidos y aptámeros podría darle solución a este problema ya que, por ejemplo, su desarrollo
+Sin embargo, el uso de cristales líquidos y aptámeros podría darle solución a este problema ya que, por ejemplo, su desarrollo
 e implementación no tiene un gran costo a comparación de estudios genéticos y en combinación con el uso de aptámeros los vuelve
-muy eficientes para la detección específica de marcadores tumorales.
+muy eficientes para la detección específica de marcadores tumorales aprovechando sus propiedades físicas.
 
 ### Crsitales líquidos
 
@@ -37,8 +38,9 @@ Las sustancias que forman cristales líquidos están formadas por moléculas con
 pueden tener sus centros de gravedad posicionados al azar (desorden posicional) pero mantener su orientación en una dirección
 determinada (orden orientacional) y es esto lo que crea la estructura ordenada de un cristal líquido.
 
-Los áptameros con secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas con alta
-afinidad y presentan varias ventajas sobre los anticuerpos su bajo costo de producción y su estabilidad.
+
+Por otra parte, los áptameros con secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas
+con alta afinidad y presentan varias ventajas sobre los anticuerpos como es su bajo costo de producción y su estabilidad.
 
 <img src="Aptamer.jpeg" width=550>
 
@@ -55,13 +57,13 @@ estado nematico a una temperatura de 24ºC y de estado nematico a estado isotró
 
 <img src="Transición.jpeg" width=350>
 
-El sensor consiste en Monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP)
+El sensor consiste en monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP)
 inmovilizadas en portaobjetos de vidrio que mantienen las moléculas del 5CB en una orientación homeotrópica. Se utiliza al
 glutaraldehído  para inmovilizar el aptámero sobre el DMOAP.
 
 La unión específica del aptámero y el marcador tumoral interrumpe la orientación homeotrópica del 5CB, induciendo así un
-cambio una alineación aleatoria que se puede convertir y visualizar simplemente como una transición de una imagen óptica
-oscura a una imagen más brillante bajo un microscopio óptico polarizado (POM) que permite la detección del marcador tumoral
+cambio a una alineación aleatoria que se puede convertir y visualizar simplemente como una transición de una imagen óptica
+oscura a una imagen más brillante bajo un microscopio óptico polarizado (POM) que permite la detección del marcador tumoral.
 
 <img src="Biosensor.png" width=550>
 
@@ -79,13 +81,13 @@ cáncer se presente (Liu et al., 2017).
 
 La proteína NCL (nucleolina) es un marcador de la formación de tumores, por lo que puede indicar el efecto que un tratamiento
 está teniendo en un paciente y la proteína MUC1, marcador de la metástasis del cáncer o tumor maligno, que su expresión está
-relacionada con la etapa del cáncer de mama (Horm & Schroeder, 2013; Wolfson et al., 2018).
+relacionada con la etapa en que se encuentra el cáncer de mama (Horm & Schroeder, 2013; Wolfson et al., 2018).
 
 <img src="Marcadores tumorales.png" width=450>
 
 Por lo tanto, se propone utilizar los aptámeros H2, ERaptD4, AS1411 y MUC1 para hacer un diagnóstico del tipo de cáncer, del
-efectividad de un tratamiento y de la predisposición que tiene una persona al cáncer de mama para su tratamiento temprano
-(Liu et al., 2017).
+efectividad de un tratamiento y de la predisposición que tiene una persona al cáncer de mama para su tratamiento temprano y su
+prevención (Liu et al., 2017).
 
 <img src="Aptámeros.png" width=600>
 
@@ -95,22 +97,7 @@ tipo de cáncer que esta presentando el paciente.
 
 <img src="Tipos de cáncer.png" width=600>
 
-En el siguiente link de [Google Colab](https://colab.research.google.com/drive/1vZsmu1tS6uh8dV-xZO0OMinHxB2j-_jk?usp=sharing) ,por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los marcadores ER y HER2 escriba "+" si la prueba es positiva y "-" si la prueba es negativa, para saber el tipo de cáncer que es y que tratamiento
-será efectivo
-
-
-```python
-er=input("ER:")
-her=input("HER2:")
-if er=="+" and her=="-":
-  print("Cáncer tipo Luminal A. Se puede aplicar quimioterapia y tratamientos hormonales.")
-elif er=="+" and her=="+":
-  print("Cáncer tipo Luminal B. Se puede aplicar quimioterapia, tratamientos hormonales y dirigidos a HER2.")
-elif er=="-" and her=="+":
-  print("Cáncer tipo HER2+. Se puede aplicar tratamientos dirigidos a HER2.")
-elif er=="-" and her=="-":
-  print("Cáncer tipo basal. Se puede aplicar quimioterapia.")
-```
+En el siguiente link de [Google Colab](https://colab.research.google.com/drive/1vZsmu1tS6uh8dV-xZO0OMinHxB2j-_jk?usp=sharing) ,por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los marcadores ER y HER2 escriba "+" si la prueba es positiva y "-" si la prueba es negativa, para saber el tipo de cáncer que es y que tratamiento será efectivo.
 
 Como control positivo se propone usar el aptámero para el gen BRCA1, ya que está presente en todas las células y por lo tanto siempre
 será positivo.
@@ -118,8 +105,8 @@ será positivo.
 
 ## Conclusión
 
-Hemos propuesto el desarrollo de un sensor de marcadores tumorales a base del cristal líquido 5CB y de aptámeros para detectar: la
-predisposición que tiene un paciente al cáncer de mama. El tipo de cáncer de mamá El efecto del tratamiento sobre la progresión del
+Hemos propuesto el desarrollo de un sensor de marcadores tumorales a base del cristal líquido 5CB y de aptámeros para detectar la
+predisposición que tiene un paciente al cáncer de mama, el tipo de cáncer de mamá y el efecto del tratamiento sobre la progresión del
 cáncer de mama.
 
 Sin embargo, algunas consideraciones a tomar en cuenta es que el cristal líquido 5CB tiene un rango de temperatura de transición de
