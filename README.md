@@ -136,7 +136,7 @@ tumorigenicity of ErbB2-positive breast cancer. Cell Death & Disease, 9(2). 10.1
   
 ## Equipo 
 
-Arisbelt Hernández Toscano
-Arlett Vanessa Salinas Gerardo
-Denisse Seguey López Castro
-Pablo Orlando García Díaz
+- Arisbelt Hernández Toscano
+- Arlett Vanessa Salinas Gerardo
+- Denisse Seguey López Castro
+- Pablo Orlando García Díaz
