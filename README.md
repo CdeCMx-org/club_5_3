@@ -51,8 +51,7 @@ Las sustancias que forman cristales líquidos están formadas por moléculas con
 pueden tener sus centros de gravedad posicionados al azar (desorden posicional) pero mantener su orientación en una dirección
 determinada (orden orientacional) y es esto lo que crea la estructura ordenada de un cristal líquido.
 
-
-Por otra parte, los áptameros con secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas
+Por otra parte, los áptameros son secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas
 con alta afinidad como se muestra en la figura 4. Presentan varias ventajas sobre los anticuerpos como es su bajo costo de producción
 y su estabilidad.
 
