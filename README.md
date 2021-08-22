@@ -9,7 +9,7 @@ se presentan más de 462,000 casos nuevos y casi 100,000 muertes por cáncer de 
 las mujeres por lo que es la primer causa de muerte por cáncer. Cada dos horas una mujer muere por esta causa en México y se
 estima que para el 2040 se presentaran mas de 46000 casos por año de cáncer de mama como se muestra en la figura 1.
 
-<img src="Gráfica.png" width=550>
+<img src="Gráfica.png" width=500>
 
 **Figura 1.** Casos por año del cáncer de mama.
 
