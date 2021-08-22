@@ -12,27 +12,31 @@ las mujeres por lo que es la primer causa de muerte por cáncer. Cada dos horas 
 
 Entendemos como cáncer de mama al tumor maligno que se origina en las células de la mama, dando por concepto de tumor maligno al
 grupo de células que crecen de manera desordenada e independiente, que tiende a invadir los tejidos que lo rodean, así como órganos
-distantes (metástasis) dando por hecho que el cáncer de mama no solo acepta a mujeres sino también a hombres.
+distantes (metástasis) así como se muestra en la mamografía de la figura 1. Una mamografía es un estudio de rayos X que se utiliza
+para dianósticar cáncer de mama, pero por lo regular ya cuando esta en etapas mas avanzadas.
 
 <img src="Mamografía.jpeg" width=550>
 
-**Figura 1.** Mamografía: Estudio de rayos X que por lo regular detecta al cáncer de mama algo avanzado. 
+**Figura 1.** Mamografía. 
 
 Las mujeres diagnosticadas con cáncer de mama en etapas iniciales, si reciben tratamiento, tienen un buen pronóstico, con tasas
 de supervivencia del 80% al 90 %. Lamentablemente en México, la mayoría de las mujeres son diagnosticadas en etapas tardías.
 Si se tuviera un método eficaz y de menor costo para la detección temprana y del tipo de cáncer de mama el número de casos y
-muertes se podría reducir en hasta un 70%, inclusive en zonas remotas y marginadas del país.
+muertes se podría reducir en hasta un 70%.
 
-Sin embargo, el uso de cristales líquidos y aptámeros podría darle solución a este problema ya que, por ejemplo, su desarrollo
-e implementación no tiene un gran costo a comparación de estudios genéticos y en combinación con el uso de aptámeros los vuelve
-muy eficientes para la detección específica de marcadores tumorales aprovechando sus propiedades físicas.
+Sin embargo, lo que aprendimos durante el Club 5 "Cristales líquidos en tus celulas y en tu celular" es que aprovechando las
+propiedades físicas de los cristales líquidos como sensores, se podría darle solución a este problema, atendiendo el **objetivo
+de desarollo sostenible 3: salud y bienestar**. El dessarolo de sensores de cristales líquidos no tiene un gran costo a comparación
+de estudios genéticos y en combinación con el uso de aptámeros los vuelve muy eficientes para la detección específica de marcadores
+tumorales, sobre todo en zonas remotas y marginadas del país.
+
 
 ### Crsitales líquidos
 
 Los cristales líquidos son materiales que poseen propiedades intermedias: pueden fluir como un líquido pero también poseen
 orden orientacional de corto alcance como los sólidos cristalinos y combinan la fluidez con la anisotropía óptica y aparece
-el efecto de la birrefringencia. Estas propiedades pueden utilizarse para resolver diferentes problemáticas como lo es la
-detección de una molécula en particular.
+el efecto de la birrefringencia como se muestra en la figura 2. Estas propiedades pueden utilizarse para resolver diferentes
+problemáticas como lo es la detección de una molécula en particular.
  
 <img src="Cristal líquido.jpeg" width=400>
 
@@ -44,7 +48,8 @@ determinada (orden orientacional) y es esto lo que crea la estructura ordenada d
 
 
 Por otra parte, los áptameros con secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas
-con alta afinidad y presentan varias ventajas sobre los anticuerpos como es su bajo costo de producción y su estabilidad.
+con alta afinidad como se muestra en la figura 3. Presentan varias ventajas sobre los anticuerpos como es su bajo costo de producción
+y su estabilidad.
 
 <img src="Aptamer.jpeg" width=550>
 
@@ -54,13 +59,15 @@ con alta afinidad y presentan varias ventajas sobre los anticuerpos como es su b
 
 Se propone implementar el sensor desarrollado por Nguyen y Jang (2021), pero adaptándolo con aptámeros específicos para los
 marcadores tumorales de cáncer de mama, ya que este sensor detecta hasta 10pM de la muestra, siendo el más bajo encontrado
-en la literatura, lo que quiere decir que no se necesita una gran cantidad de muestra para llevar a cabo una prueba.
+en la literatura, que se muestran en la Tabla 1, lo que quiere decir que no se necesita una gran cantidad de muestra
+para llevar a cabo una prueba.
 
-**Tabla 1. Comparación de sensores de cristales líquidos mediante el uso de aptámeros.
+**Tabla 1. Comparación de sensores de cristales líquidos mediante el uso de aptámeros.**
+
 <img src="Comparación.png" width=550>
 
 El cristal líquido que se utiliza es el 4-ciano-4’pentilbifenil o 5CB y es de tipo nematico. Pasa de estado cristalino a
-estado nematico a una temperatura de 24ºC y de estado nematico a estado isotrópico a 35ºC.
+estado nematico a una temperatura de 24ºC y de estado nematico a estado isotrópico a 35ºC como se muestra en la figura 4.
 
 <img src="Transición.jpeg" width=350>
 
@@ -75,7 +82,7 @@ cambio a una alineación aleatoria que se puede convertir y visualizar simplemen
 oscura a una imagen más brillante bajo un microscopio óptico polarizado (POM) que permite la detección del marcador tumoral.
 
 Por lo tanto, si la molecula a detectar esta presente en el microscopio se observara una imagen negra o obscura, en cambio,
-si la molecula esta presente, se observara una imagen con luz.
+si la molecula esta presente, se observara una imagen con luz como se muestra en la figura 5.
 
 <img src="Biosensor.png" width=550>
 
@@ -95,21 +102,24 @@ La proteína NCL (nucleolina) es un marcador de la formación de tumores, por lo
 está teniendo en un paciente y la proteína MUC1, marcador de la metástasis del cáncer o tumor maligno, que su expresión está
 relacionada con la etapa en que se encuentra el cáncer de mama (Horm & Schroeder, 2013; Wolfson et al., 2018).
 
-**Tabla 2. Marcadores tumorales a detecta en la prueba
+**Tabla 2. Marcadores tumorales a detectar en la prueba**
+
 <img src="Marcadores tumorales.png" width=450>
 
-Por lo tanto, se propone utilizar los aptámeros H2, ERaptD4, AS1411 y MUC1 para hacer un diagnóstico del tipo de cáncer, del
-efectividad de un tratamiento y de la predisposición que tiene una persona al cáncer de mama para su tratamiento temprano y su
-prevención (Liu et al., 2017).
+Por lo tanto, se propone utilizar los aptámeros H2, ERaptD4, AS1411 y MUC1, que se muestran en la Tabla 3 para hacer un diagnóstico
+del tipo de cáncer, de la efectividad de un tratamiento y de la predisposición que tiene una persona al cáncer de mama para su
+tratamiento temprano y su prevención (Liu et al., 2017).
 
-**Tabla 3. Aptámeros a utilizar con el oncosensor.
+**Tabla 3. Aptámeros a utilizar con el oncosensor.**
+
 <img src="Aptámeros.png" width=600>
 
 Existen 4 tipos de cáncer de mamá  en donde se pueden expresar o no los marcadores del receptor de estógeno (ER) y del receptor
-de factor de crecimiento epidérmico 2(HER2) y algunos tratamientos seran efectivos o no, por lo tanto, es importante detectar el
-tipo de cáncer que esta presentando el paciente.
+de factor de crecimiento epidérmico 2(HER2) y algunos tratamientos seran efectivos o no, como se muestra en la Tabla 4 marcados
+con una "O", por lo tanto, es importante detectar el tipo de cáncer que esta presentando el paciente.
 
-**Tabla 4. Tipos de cáncer de mama
+**Tabla 4. Tipos de cáncer de mama**
+
 <img src="Tipos de cáncer.png" width=600>
 
 En el siguiente link de [Google Colab](https://colab.research.google.com/drive/1vZsmu1tS6uh8dV-xZO0OMinHxB2j-_jk?usp=sharing) ,por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los marcadores ER y HER2 escriba "+" si la prueba es positiva y "-" si la prueba es negativa, para saber el tipo de cáncer que es y que tratamiento será efectivo.
@@ -122,8 +132,9 @@ será positivo.
 **Figura 6.** Diferentes resultados posibles que se pueden obtener en una prueba.
 
 Por ejemplo, si el tratamiento para el cáncer esta teniendo efecto, se esperaría que bajo el microscopio se viera una imagen oscura con
-poca detección de birrefringencia, de igual manera si el cáncer se encuentra en etapas tempranas. Sin embargo si el tratamiento no está
-teniendo efecto o esta en etapas tardías (metástasis), bajo el microscopio se vería una mucha birrefringencia.
+poca detección de birrefringencia, de igual manera si el cáncer se encuentra en etapas tempranas como las imagenes de la primera fila de
+la figura 6. Sin embargo si el tratamiento no está teniendo efecto o esta en etapas tardías (metástasis), bajo el microscopio se vería
+mucha birrefringencia, como las imagenes de la última fila de la figura 6.
 
 ## Conclusión
 
@@ -161,3 +172,12 @@ tumorigenicity of ErbB2-positive breast cancer. Cell Death & Disease, 9(2). 10.1
 - Arlett Vanessa Salinas Gerardo
 - Denisse Seguey López Castro
 - Pablo Orlando García Díaz
+
+## Colaboraciones
+
+Les presentamos en los siguientes links la metdología de dección de otras enfermeddes mediante sensores de cristales líquidos y que
+fueron desarollados por nuestros compañeros del Club 5:
+
+- [Problemas neurológicos causados por covid-19](https://cdecmx-org.github.io/proyectos-2021-club_5_1/)
+- [Cáncer de colon](https://cdecmx-org.github.io/proyectos-2021-club_5_2/)
+
