@@ -16,7 +16,7 @@ distantes (metástasis) dando por hecho que el cáncer de mama no solo acepta a 
 
 <img src="Mamografía.jpeg" width=550>
 
-Figura 1. Mamografía. Estudio de rayos X que por lo regular detecta al cáncer de mama algo avanzado. 
+**Figura 1.** Mamografía: Estudio de rayos X que por lo regular detecta al cáncer de mama algo avanzado. 
 
 Las mujeres diagnosticadas con cáncer de mama en etapas iniciales, si reciben tratamiento, tienen un buen pronóstico, con tasas
 de supervivencia del 80% al 90 %. Lamentablemente en México, la mayoría de las mujeres son diagnosticadas en etapas tardías.
@@ -36,9 +36,8 @@ detección de una molécula en particular.
  
 <img src="Cristal líquido.jpeg" width=400>
 
-Figura 2. Efecto de la birrenfringencia de un cristal líquido visto con un microscopio polarizado.
+**Figura 2.** Efecto de la birrenfringencia de un cristal líquido visto con un microscopio polarizado.
 
- 
 Las sustancias que forman cristales líquidos están formadas por moléculas con una forma alargada o de disco de esta manera
 pueden tener sus centros de gravedad posicionados al azar (desorden posicional) pero mantener su orientación en una dirección
 determinada (orden orientacional) y es esto lo que crea la estructura ordenada de un cristal líquido.
@@ -49,7 +48,7 @@ con alta afinidad y presentan varias ventajas sobre los anticuerpos como es su b
 
 <img src="Aptamer.jpeg" width=550>
 
-Figura 3. Unión específica de un aptámero a su molecula objetivo.
+**Figura 3.** Unión específica de un aptámero a su molecula objetivo.
 
 ## Metodología
 
@@ -57,7 +56,7 @@ Se propone implementar el sensor desarrollado por Nguyen y Jang (2021), pero ada
 marcadores tumorales de cáncer de mama, ya que este sensor detecta hasta 10pM de la muestra, siendo el más bajo encontrado
 en la literatura, lo que quiere decir que no se necesita una gran cantidad de muestra para llevar a cabo una prueba.
 
-Tabla 1. Comparación de sensores de cristales líquidos mediante el uso de aptámeros.
+**Tabla 1. Comparación de sensores de cristales líquidos mediante el uso de aptámeros.
 <img src="Comparación.png" width=550>
 
 El cristal líquido que se utiliza es el 4-ciano-4’pentilbifenil o 5CB y es de tipo nematico. Pasa de estado cristalino a
@@ -65,7 +64,7 @@ estado nematico a una temperatura de 24ºC y de estado nematico a estado isotró
 
 <img src="Transición.jpeg" width=350>
 
-Figura 4. Cambios de fases del 5CB.
+**Figura 4.** Cambios de fases del 5CB.
 
 El sensor consiste en monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP)
 inmovilizadas en portaobjetos de vidrio que mantienen las moléculas del 5CB en una orientación homeotrópica. Se utiliza al
@@ -80,7 +79,7 @@ si la molecula esta presente, se observara una imagen con luz.
 
 <img src="Biosensor.png" width=550>
 
-Figura 5. Funcionamiento del oncosensor.
+**Figura 5.** Funcionamiento del oncosensor.
 
 El tipo de muestra que se utilizará para el sensor será una biopsia líquida, o sangre, ya que estas muestras se realizan de
 manera no invasiva en el paciente y se puede detectar el cáncer de mama en etapas tempranas además de monitorear los efectos
@@ -96,21 +95,21 @@ La proteína NCL (nucleolina) es un marcador de la formación de tumores, por lo
 está teniendo en un paciente y la proteína MUC1, marcador de la metástasis del cáncer o tumor maligno, que su expresión está
 relacionada con la etapa en que se encuentra el cáncer de mama (Horm & Schroeder, 2013; Wolfson et al., 2018).
 
-Tabla 2. Marcadores tumorales a detecta en la prueba
+**Tabla 2. Marcadores tumorales a detecta en la prueba
 <img src="Marcadores tumorales.png" width=450>
 
 Por lo tanto, se propone utilizar los aptámeros H2, ERaptD4, AS1411 y MUC1 para hacer un diagnóstico del tipo de cáncer, del
 efectividad de un tratamiento y de la predisposición que tiene una persona al cáncer de mama para su tratamiento temprano y su
 prevención (Liu et al., 2017).
 
-Tabla 3. Aptámeros a utilizar con el oncosensor.
+**Tabla 3. Aptámeros a utilizar con el oncosensor.
 <img src="Aptámeros.png" width=600>
 
 Existen 4 tipos de cáncer de mamá  en donde se pueden expresar o no los marcadores del receptor de estógeno (ER) y del receptor
 de factor de crecimiento epidérmico 2(HER2) y algunos tratamientos seran efectivos o no, por lo tanto, es importante detectar el
 tipo de cáncer que esta presentando el paciente.
 
-Tabla 4. Tipos de cáncer de mama
+**Tabla 4. Tipos de cáncer de mama
 <img src="Tipos de cáncer.png" width=600>
 
 En el siguiente link de [Google Colab](https://colab.research.google.com/drive/1vZsmu1tS6uh8dV-xZO0OMinHxB2j-_jk?usp=sharing) ,por ejemplo, para una prueba diagnóstico del tipo de cáncer de mama, en los marcadores ER y HER2 escriba "+" si la prueba es positiva y "-" si la prueba es negativa, para saber el tipo de cáncer que es y que tratamiento será efectivo.
@@ -120,7 +119,7 @@ será positivo.
 
 <img src="Microscopìa.png" width=550>
 
-Figura 6.Diferentes resultados posibles que se pueden obtener en una prueba.
+**Figura 6.** Diferentes resultados posibles que se pueden obtener en una prueba.
 
 Por ejemplo, si el tratamiento para el cáncer esta teniendo efecto, se esperaría que bajo el microscopio se viera una imagen oscura con
 poca detección de birrefringencia, de igual manera si el cáncer se encuentra en etapas tempranas. Sin embargo si el tratamiento no está
