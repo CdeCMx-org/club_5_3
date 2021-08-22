@@ -29,9 +29,11 @@ muertes se podría reducir en hasta un 70%.
 
 Sin embargo, lo que aprendimos durante el Club 5 "Cristales líquidos en tus celulas y en tu celular" es que aprovechando las
 propiedades físicas de los cristales líquidos como sensores, se podría darle solución a este problema, atendiendo el **objetivo
-de desarollo sostenible 3: salud y bienestar**. El dessarolo de sensores de cristales líquidos no tiene un gran costo a comparación
-de estudios genéticos y en combinación con el uso de aptámeros los vuelve muy eficientes para la detección específica de marcadores
-tumorales, sobre todo en zonas remotas y marginadas del país.
+de desarollo sostenible 3: salud y bienestar**.
+
+El desarollo de sensores de cristales líquidos no tiene un gran costo a comparación de estudios genéticos y en combinación con
+el uso de aptámeros los vuelve muy eficientes para la detección específica de marcadores tumorales, sobre todo en zonas remotas
+y marginadas del país.
 
 
 ### Crsitales líquidos
