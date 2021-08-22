@@ -181,6 +181,6 @@ tumorigenicity of ErbB2-positive breast cancer. Cell Death & Disease, 9(2). 10.1
 Les presentamos en los siguientes links la metdología de dección de otras enfermeddes mediante sensores de cristales líquidos y que
 fueron desarollados por nuestros compañeros del Club 5:
 
-- [Problemas neurológicos causados por covid-19](https://cdecmx-org.github.io/proyectos-2021-club_5_1/)
-- [Cáncer de colon](https://cdecmx-org.github.io/proyectos-2021-club_5_2/)
+- [Problemas neurológicos causados por covid-19](https://cdecmx-org.github.io/proyectos-2021-club_5_2/)
+- [Cáncer de colon](https://cdecmx-org.github.io/proyectos-2021-club_5_1/)
 
