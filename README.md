@@ -6,18 +6,21 @@
 
 El cáncer de mama es el tipo de cáncer más común y la segunda causa de muerte por cáncer entre las mujeres de América. Cada año
 se presentan más de 462,000 casos nuevos y casi 100,000 muertes por cáncer de mama. En México, es el tumor más frecuente entre
-las mujeres por lo que es la primer causa de muerte por cáncer. Cada dos horas una mujer muere por esta causa en México
+las mujeres por lo que es la primer causa de muerte por cáncer. Cada dos horas una mujer muere por esta causa en México y se
+estima que para el 2040 se presentaran mas de 46000 casos por año de cáncer de mama como se muestra en la figura 1.
 
-### ¿Qué es el cáncer de mama?
+<img src="Gráfica.png" width=550>
+
+**Figura 1.** Casos por año del cáncer de mama.
 
 Entendemos como cáncer de mama al tumor maligno que se origina en las células de la mama, dando por concepto de tumor maligno al
 grupo de células que crecen de manera desordenada e independiente, que tiende a invadir los tejidos que lo rodean, así como órganos
-distantes (metástasis) así como se muestra en la mamografía de la figura 1. Una mamografía es un estudio de rayos X que se utiliza
+distantes (metástasis) así como se muestra en la mamografía de la figura 2. Una mamografía es un estudio de rayos X que se utiliza
 para dianósticar cáncer de mama, pero por lo regular ya cuando esta en etapas mas avanzadas.
 
 <img src="Mamografía.jpeg" width=550>
 
-**Figura 1.** Mamografía. 
+**Figura 2.** Mamografía. 
 
 Las mujeres diagnosticadas con cáncer de mama en etapas iniciales, si reciben tratamiento, tienen un buen pronóstico, con tasas
 de supervivencia del 80% al 90 %. Lamentablemente en México, la mayoría de las mujeres son diagnosticadas en etapas tardías.
@@ -35,12 +38,12 @@ tumorales, sobre todo en zonas remotas y marginadas del país.
 
 Los cristales líquidos son materiales que poseen propiedades intermedias: pueden fluir como un líquido pero también poseen
 orden orientacional de corto alcance como los sólidos cristalinos y combinan la fluidez con la anisotropía óptica y aparece
-el efecto de la birrefringencia como se muestra en la figura 2. Estas propiedades pueden utilizarse para resolver diferentes
+el efecto de la birrefringencia como se muestra en la figura 3. Estas propiedades pueden utilizarse para resolver diferentes
 problemáticas como lo es la detección de una molécula en particular.
  
 <img src="Cristal líquido.jpeg" width=400>
 
-**Figura 2.** Efecto de la birrenfringencia de un cristal líquido visto con un microscopio polarizado.
+**Figura 3.** Efecto de la birrenfringencia de un cristal líquido visto con un microscopio polarizado.
 
 Las sustancias que forman cristales líquidos están formadas por moléculas con una forma alargada o de disco de esta manera
 pueden tener sus centros de gravedad posicionados al azar (desorden posicional) pero mantener su orientación en una dirección
@@ -48,12 +51,12 @@ determinada (orden orientacional) y es esto lo que crea la estructura ordenada d
 
 
 Por otra parte, los áptameros con secuencias cortas no-codificantes de ADN o ARN diseñadas para unirse específicamente a moléculas
-con alta afinidad como se muestra en la figura 3. Presentan varias ventajas sobre los anticuerpos como es su bajo costo de producción
+con alta afinidad como se muestra en la figura 4. Presentan varias ventajas sobre los anticuerpos como es su bajo costo de producción
 y su estabilidad.
 
 <img src="Aptamer.jpeg" width=550>
 
-**Figura 3.** Unión específica de un aptámero a su molecula objetivo.
+**Figura 4.** Unión específica de un aptámero a su molecula objetivo.
 
 ## Metodología
 
@@ -67,11 +70,11 @@ para llevar a cabo una prueba.
 <img src="Comparación.png" width=550>
 
 El cristal líquido que se utiliza es el 4-ciano-4’pentilbifenil o 5CB y es de tipo nematico. Pasa de estado cristalino a
-estado nematico a una temperatura de 24ºC y de estado nematico a estado isotrópico a 35ºC como se muestra en la figura 4.
+estado nematico a una temperatura de 24ºC y de estado nematico a estado isotrópico a 35ºC como se muestra en la figura 5.
 
 <img src="Transición.jpeg" width=350>
 
-**Figura 4.** Cambios de fases del 5CB.
+**Figura 5.** Cambios de fases del 5CB.
 
 El sensor consiste en monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP)
 inmovilizadas en portaobjetos de vidrio que mantienen las moléculas del 5CB en una orientación homeotrópica. Se utiliza al
@@ -82,11 +85,11 @@ cambio a una alineación aleatoria que se puede convertir y visualizar simplemen
 oscura a una imagen más brillante bajo un microscopio óptico polarizado (POM) que permite la detección del marcador tumoral.
 
 Por lo tanto, si la molecula a detectar esta presente en el microscopio se observara una imagen negra o obscura, en cambio,
-si la molecula esta presente, se observara una imagen con luz como se muestra en la figura 5.
+si la molecula esta presente, se observara una imagen con luz como se muestra en la figura 6.
 
 <img src="Biosensor.png" width=550>
 
-**Figura 5.** Funcionamiento del oncosensor.
+**Figura 6.** Funcionamiento del oncosensor.
 
 El tipo de muestra que se utilizará para el sensor será una biopsia líquida, o sangre, ya que estas muestras se realizan de
 manera no invasiva en el paciente y se puede detectar el cáncer de mama en etapas tempranas además de monitorear los efectos
@@ -127,14 +130,14 @@ En el siguiente link de [Google Colab](https://colab.research.google.com/drive/1
 Como control positivo se propone usar el aptámero para el gen BRCA1, ya que está presente en todas las células y por lo tanto siempre
 será positivo.
 
-<img src="Microscopìa.png" width=550>
-
-**Figura 6.** Diferentes resultados posibles que se pueden obtener en una prueba.
-
 Por ejemplo, si el tratamiento para el cáncer esta teniendo efecto, se esperaría que bajo el microscopio se viera una imagen oscura con
 poca detección de birrefringencia, de igual manera si el cáncer se encuentra en etapas tempranas como las imagenes de la primera fila de
 la figura 6. Sin embargo si el tratamiento no está teniendo efecto o esta en etapas tardías (metástasis), bajo el microscopio se vería
-mucha birrefringencia, como las imagenes de la última fila de la figura 6.
+mucha birrefringencia, como las imagenes de la última fila de la figura 7.
+
+<img src="Microscopìa.png" width=550>
+
+**Figura 7.** Diferentes resultados posibles que se pueden obtener en una prueba.
 
 ## Conclusión
 
