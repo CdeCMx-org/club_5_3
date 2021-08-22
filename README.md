@@ -85,8 +85,9 @@ La unión específica del aptámero y el marcador tumoral interrumpe la orientac
 cambio a una alineación aleatoria que se puede convertir y visualizar simplemente como una transición de una imagen óptica
 oscura a una imagen más brillante bajo un microscopio óptico polarizado (POM) que permite la detección del marcador tumoral.
 
-Por lo tanto, si la molecula a detectar esta presente en el microscopio se observara una imagen negra o obscura, en cambio,
-si la molecula esta presente, se observara una imagen con luz como se muestra en la figura 6.
+Por lo tanto, si la molecula a detectar no esta presente en el medio, se observara una imagen negra o obscura como la imagen
+(k) de la figura 6, en cambio, si la molecula esta presente, se observara una imagen con luz como la imagen (l) de la figura
+6.
 
 <img src="Biosensor.png" width=550>
 
