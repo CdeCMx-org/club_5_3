@@ -45,7 +45,7 @@ problemáticas como lo es la detección de una molécula en particular.
  
 <img src="Cristal líquido.jpeg" width=400>
 
-**Figura 3.** Efecto de la birrenfringencia de un cristal líquido visto con un microscopio polarizado.
+**Figura 3.** Efecto de la birrefringencia de un cristal líquido visto con un microscopio polarizado.
 
 Las sustancias que forman cristales líquidos están formadas por moléculas con una forma alargada o de disco de esta manera
 pueden tener sus centros de gravedad posicionados al azar (desorden posicional) pero mantener su orientación en una dirección
@@ -131,9 +131,9 @@ En el siguiente link de [Google Colab](https://colab.research.google.com/drive/1
 Como control positivo se propone usar el aptámero para el gen BRCA1, ya que está presente en todas las células y por lo tanto siempre
 será positivo.
 
-Por ejemplo, si el tratamiento para el cáncer esta teniendo efecto, se esperaría que bajo el microscopio se viera una imagen oscura con
-poca detección de birrefringencia, de igual manera si el cáncer se encuentra en etapas tempranas como las imagenes de la primera fila de
-la figura 6. Sin embargo si el tratamiento no está teniendo efecto o esta en etapas tardías (metástasis), bajo el microscopio se vería
+Por ejemplo, si el tratamiento para el cáncer esta teniendo efecto o el cáncer se encuentra en etapas tempranas, se esperaría que bajo
+el microscopio se viera una imagen oscura con poca detección de birrefringencia, como las imagenes de la primera fila de
+la figura 7. Sin embargo si el tratamiento no está teniendo efecto o el cáncer esta en etapas tardías (metástasis), bajo el microscopio se vería
 mucha birrefringencia, como las imagenes de la última fila de la figura 7.
 
 <img src="Microscopìa.png" width=550>
