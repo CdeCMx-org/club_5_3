@@ -15,6 +15,7 @@ grupo de células que crecen de manera desordenada e independiente, que tiende a
 distantes (metástasis) dando por hecho que el cáncer de mama no solo acepta a mujeres sino también a hombres.
 
 <img src="Mamografía.jpeg" width=550>
+
 Figura 1. Mamografía. Estudio de rayos X que por lo regular detecta al cáncer de mama algo avanzado. 
 
 Las mujeres diagnosticadas con cáncer de mama en etapas iniciales, si reciben tratamiento, tienen un buen pronóstico, con tasas
@@ -34,6 +35,7 @@ el efecto de la birrefringencia. Estas propiedades pueden utilizarse para resolv
 detección de una molécula en particular.
  
 <img src="Cristal líquido.jpeg" width=400>
+
 Figura 2. Efecto de la birrenfringencia de un cristal líquido visto con un microscopio polarizado.
 
  
@@ -46,6 +48,7 @@ Por otra parte, los áptameros con secuencias cortas no-codificantes de ADN o AR
 con alta afinidad y presentan varias ventajas sobre los anticuerpos como es su bajo costo de producción y su estabilidad.
 
 <img src="Aptamer.jpeg" width=550>
+
 Figura 3. Unión específica de un aptámero a su molecula objetivo.
 
 ## Metodología
@@ -61,6 +64,7 @@ El cristal líquido que se utiliza es el 4-ciano-4’pentilbifenil o 5CB y es de
 estado nematico a una temperatura de 24ºC y de estado nematico a estado isotrópico a 35ºC.
 
 <img src="Transición.jpeg" width=350>
+
 Figura 4. Cambios de fases del 5CB.
 
 El sensor consiste en monocapas autoensambladas de cloruro de dimetiloctadecil [3 (trimetoxisilil) propil] amonio (DMOAP)
@@ -71,8 +75,12 @@ La unión específica del aptámero y el marcador tumoral interrumpe la orientac
 cambio a una alineación aleatoria que se puede convertir y visualizar simplemente como una transición de una imagen óptica
 oscura a una imagen más brillante bajo un microscopio óptico polarizado (POM) que permite la detección del marcador tumoral.
 
+Por lo tanto, si la molecula a detectar esta presente en el microscopio se observara una imagen negra o obscura, en cambio,
+si la molecula esta presente, se observara una imagen con luz.
+
 <img src="Biosensor.png" width=550>
-Figura 5.
+
+Figura 5. Funcionamiento del oncosensor.
 
 El tipo de muestra que se utilizará para el sensor será una biopsia líquida, o sangre, ya que estas muestras se realizan de
 manera no invasiva en el paciente y se puede detectar el cáncer de mama en etapas tempranas además de monitorear los efectos
@@ -111,6 +119,7 @@ Como control positivo se propone usar el aptámero para el gen BRCA1, ya que est
 será positivo.
 
 <img src="Microscopìa.png" width=550>
+
 Figura 6.Diferentes resultados posibles que se pueden obtener en una prueba.
 
 Por ejemplo, si el tratamiento para el cáncer esta teniendo efecto, se esperaría que bajo el microscopio se viera una imagen oscura con
